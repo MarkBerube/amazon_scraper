@@ -11,6 +11,7 @@ This repository contains a simple script for scraping the prices of RTX 3090s fr
 ### Installing
 
 In order to use this script you will need to make sure that the following dependencies are installed on your system:
+
     - BeautifulSoup
     - Pandas
 
